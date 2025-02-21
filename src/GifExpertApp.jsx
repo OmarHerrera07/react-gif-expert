@@ -13,7 +13,7 @@ export const GifExpertApp = () => {
   console.log(categories)
   return (
     <>
-    <h1>GifExpertApp</h1>
+    <h1>GifExpertApp w</h1>
 
     <AddCategory 
 
